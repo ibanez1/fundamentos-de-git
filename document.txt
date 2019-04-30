@@ -2,5 +2,5 @@ commit 2
 commit 3
 commit 4
 commit 5
-this line is to resolve a conflict
+this line is to resolve a conflict, and now to rebase
 any conflict here?
