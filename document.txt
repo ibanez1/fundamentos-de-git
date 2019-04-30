@@ -3,8 +3,4 @@ commit 3
 commit 4
 commit 5
 this line is to resolve a conflict
-<<<<<<< HEAD
 any conflict here?
-=======
-new conflict!
->>>>>>> feature/branch2
